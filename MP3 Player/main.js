@@ -25,10 +25,10 @@ let curr_track = document.createElement("audio");
 // Define the list of tracks that have to be played
 let track_list = [
   {
-    name: "Night Owl",
-    artist: "Broke For Free",
-    image: "Image URL",
-    path: "Night_Owl.mp3",
+    name: "Aurora",
+    artist: "Jonghyun",
+    image: "she-is.jpg",
+    path: "AURORA.mp3",
   },
   {
     name: "Enthusiast",
